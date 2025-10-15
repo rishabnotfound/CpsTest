@@ -1,5 +1,7 @@
 # CPS Test Site 🖱️⏱️
 
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/896ca030-2077-48fe-8f4a-21654aa68557" />
+
 Welcome to the CPS Test Site, a simple tool to measure your clicks per second (CPS) speed! With a duration of 10 seconds, this site challenges you to click as many times as you can within the given time frame. Are you up for the challenge? Let's find out! 🔥🕒
 
 ## Features ✨
